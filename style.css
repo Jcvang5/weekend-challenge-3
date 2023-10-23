@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+}
+  
+  
+.container {
+    text-align: center;
+    margin: 20px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    padding: 20px;
+}
+  
+  
+h1 {
+    font-size: 28px;
+}
+  
+  
+#location {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+  
+  
+#search {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+  
+#search:hover {
+    background-color: #0056b3;
+}
+  
+  
+#error-message {
+    color: red;
+    font-size: 18px;
+}
+  
+  
+#weather-info {
+    margin-top: 20px;
+    font-size: 20px;
+}
+  
